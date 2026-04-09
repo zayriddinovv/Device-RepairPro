@@ -26,7 +26,7 @@ A modern and simple web application designed to manage and present device repair
 ## 🚀 Live Demo
 
 👉 Add your live link here  
-Example: https://device-repairpro.onrender.com (not for mobile)
+Example: https://device-repairpro-1.onrender.com (not for mobile)
 
 ---
 
